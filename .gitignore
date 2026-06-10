@@ -1,0 +1,5 @@
+*.exe
+*.class
+node_modules/
+.expo/
+.vscode/
