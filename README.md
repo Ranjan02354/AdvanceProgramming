@@ -16,7 +16,8 @@ The source code for the corresponding assignment.
 A README.md file containing the assignment question and related details.
 
 
-Technologies Used
+Technologies Used. 
+
 Assignments in this repository have been developed using:
 
 C Programming
