@@ -28,6 +28,7 @@ React Native / Expo
 HTML, CSS, JavaScript
 
 Viewing an Assignment
+
 Open the repository.
 Click on the branch selector.
 Select the required assignment branch.
