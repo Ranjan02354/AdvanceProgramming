@@ -14,6 +14,8 @@ Each branch contains:
 
 The source code for the corresponding assignment.
 A README.md file containing the assignment question and related details.
+
+
 Technologies Used
 Assignments in this repository have been developed using:
 
@@ -23,6 +25,7 @@ Python
 React
 React Native / Expo
 HTML, CSS, JavaScript
+
 Viewing an Assignment
 Open the repository.
 Click on the branch selector.
